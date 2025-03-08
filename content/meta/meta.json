@@ -1,0 +1,39 @@
+{
+  "uclassXelf": {
+    "version": "1.0.0",
+    "packagedVersion": "1.0.0",
+    "packagedDt": "2025-02-27T07:19:27.861Z",
+    "convertedDt": "2025-02-27T07:19:27.992Z"
+  },
+  "project": {
+    "title": "세상을 바꾼 80가지 발명품",
+    "content": "",
+    "createdDt": "2025-01-09T00:52:54.000Z",
+    "updatedDt": "2025-01-26T02:55:52.000Z",
+    "modifiedDt": "2025-01-26T02:54:53.000Z",
+    "tags": [],
+    "category": "13560",
+    "categoryTitle": "◆정보책 방탈출",
+    "userEmail": "miss_emotion@naver.com",
+    "userName": "정원상",
+    "userNickname": "양송이샘",
+    "userNo": 213,
+    "cclAuthor": "양송이샘 (miss_emotion@naver.com)",
+    "cclType": "CC_BY_ND",
+    "projectId": "0Y3v1O0j5hA",
+    "orgNo": 24,
+    "viewCount": 59,
+    "orgUrlPath": "missemotion",
+    "volume": 18438294
+  },
+  "resources": {
+    "fonts": [
+      "Batang_Bold"
+    ],
+    "licenses": {
+      "image": [],
+      "svg": [],
+      "font": []
+    }
+  }
+}
